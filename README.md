@@ -2,7 +2,7 @@
 
 Developers sometimes face an issue where their laptop heats up or makes noise even after they have stopped active development. While it is normal for your machine to use high CPU during local development with servers (Next.js, React, Django, Express, etc.), if your laptop continues to heat up and make noise while idle, one common reason may be that you forgot to stop your local servers. Even if your laptop has good specs and you don’t notice, it may still be unnecessarily consuming CPU resources in the background.
 
-##This can also happen if your IDE (VS Code, IntelliJ, etc.) reopens previous projects and automatically restarts dev servers after a reboot.
+## This can also happen if your IDE (VS Code, IntelliJ, etc.) reopens previous projects and automatically restarts dev servers after a reboot.
 
 ---
 
